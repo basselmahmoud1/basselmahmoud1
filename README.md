@@ -107,7 +107,6 @@ I'm a **Senior 1 ECE student at Ain Shams University** (GPA: 3.77 / 4.00) with a
 
 <img src="https://streak-stats.demolab.com?user=basselmahmoud1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basselmahmoud1&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
 </div>
 
