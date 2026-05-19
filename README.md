@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Senior 1 ECE student at Ain Shams University** with a strong passion for **RTL Design** and **Digital Verification**. I enjoy building reliable hardware systems — from low-level chip-level design to Linux-based embedded applications.
+I'm a **Senior 1 ECE student at Ain Shams University** (GPA: 3.77 / 4.00) with a strong passion for **RTL Design** and **Digital Verification**. I enjoy building reliable hardware systems — from low-level chip-level design to Linux-based embedded applications.
 
 - 🔭 Currently implementing the **AMBA APB Protocol** in SystemVerilog
 - 🌱 Deepening expertise in **UVM**, **SVA**, and coverage-driven verification
@@ -65,56 +65,6 @@ I'm a **Senior 1 ECE student at Ain Shams University** with a strong passion for
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔗 [AMBA APB Protocol – SystemVerilog Implementation](https://github.com/basselmahmoud1/AMBA_APB_Protocol) *(2026)*
-Implemented the full ARM AMBA APB protocol in SystemVerilog based on the official IHI0024D spec. Features a three-phase state machine (IDLE → SETUP → ACCESS), PSLVERR error signaling, and a synthesizable APB bridge suitable for SoC integration.
-`SystemVerilog` `RTL Design` `APB` `SoC`
-
----
-
-### ✅ [UVM Verification – RAM & SPI Slave](https://github.com/basselmahmoud1) *(2025)*
-Complete UVM testbench verifying three design units: synchronous RAM, SPI Slave FSM, and an integrated Wrapper. Implemented the full UVM layered architecture with constrained-random stimulus, self-checking scoreboards, functional coverage groups, and SVA. **Achieved 100% assertion coverage.**
-`UVM` `SystemVerilog` `SVA` `QuestaSim` `SPI` `RAM`
-
----
-
-### 🔧 [SPI Slave with Single-Port RAM](https://github.com/basselmahmoud1) *(2025)*
-Designed an SPI-Slave module with integrated single-port RAM using Verilog HDL, enabling efficient data communication and storage. Verified functionality through testbenches in QuestaSim.
-`Verilog` `SPI` `RAM` `Digital Design`
-
----
-
-### 📡 [DSP48A1 – Spartan6 FPGA](https://github.com/basselmahmoud1) *(2025)*
-Designed and implemented a DSP processing unit for Spartan FPGA boards. Achieved minimum propagation delay using Vivado and QuestaSim with full functional verification.
-`Verilog` `FPGA` `Vivado` `DSP` `Questa-lint`
-
----
-
-### 🌐 [HTTP Server](https://github.com/basselmahmoud1/HTTP_Server) *(2024)*
-A fully functional HTTP server built in C, capable of sending/receiving packets and handling HTTP requests. Developed as part of Linux system programming training.
-`C` `Linux` `Networking` `Socket Programming`
-
----
-
-### 🐚 [Linux Shell (myShell)](https://github.com/basselmahmoud1/myShell) *(2024)*
-A Bash shell simulator supporting internal/external commands, output redirection, and command tokenization — implemented from scratch in C.
-`C` `Linux` `Shell` `Systems Programming`
-
----
-
-### 🧠 [Heap Memory Manager](https://github.com/basselmahmoud1) *(2024)*
-Custom heap allocator using a doubly-linked list, exposing `malloc()`, `free()`, `calloc()`, and `realloc()` APIs as full replacements for the standard libc memory functions.
-`C` `Memory Management` `Systems`
-
----
-
-### ⚡ [Analog-to-Digital Converter](https://github.com/basselmahmoud1) *(2025)*
-Full SAR ADC implementation with all building blocks (comparator, D flip-flop, DAC) verified individually. Achieved required INL, DNL, and ENOB specs using Xschem and NgSpice.
-`Analog Design` `Xschem` `NgSpice` `ADC`
-
----
-
 ## 💼 Experience
 
 **Trainee – ADC Design and Verification** @ *Siemens* *(Jan 2025)*
@@ -145,8 +95,9 @@ Full SAR ADC implementation with all building blocks (comparator, D flip-flop, D
 
 <div align="center">
 
-![Bassel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=basselmahmoud1&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basselmahmoud1&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=basselmahmoud1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basselmahmoud1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
 </div>
 
