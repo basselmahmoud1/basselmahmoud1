@@ -4,10 +4,6 @@
 
 ### Electronics & Communication Engineering Student | RTL Design • Digital Verification • Embedded Linux
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bassel--mahmoud12-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bassel-mahmoud12)
-[![GitHub](https://img.shields.io/badge/GitHub-basselmahmoud1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/basselmahmoud1)
-[![Gmail](https://img.shields.io/badge/Email-basselmahmoud1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basselmahmoud1@gmail.com)
-
 </div>
 
 ---
@@ -34,34 +30,48 @@ I'm a **Senior 1 ECE student at Ain Shams University** (GPA: 3.77 / 4.00) with a
 
 ---
 
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bassel-mahmoud12)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basselmahmoud1@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@basselmahmoud1)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/basselmahmoud1)
+[![CV](https://img.shields.io/badge/My%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1X0CdB_THVrg6OqXEJWpMY0xY3K8SHzYT/view?usp=drive_link)
+
+</div>
+
+---
+
 ## 🛠️ Skills & Tools
+
+<div align="center">
 
 **Languages & HDL**
 
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-informational?style=flat&logo=data:image/svg+xml;base64,&color=orange)
-![Verilog](https://img.shields.io/badge/Verilog-informational?style=flat&color=red)
-![C](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=00599C)
-![C++](https://img.shields.io/badge/C++-informational?style=flat&logo=cplusplus&logoColor=white&color=00599C)
-![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
-![Bash](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
-![TCL](https://img.shields.io/badge/TCL-informational?style=flat&color=gray)
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,git&theme=dark" />
 
-**Verification**
+**Verification & EDA Tools**
 
-![UVM](https://img.shields.io/badge/UVM-Testbench_Architecture-blueviolet?style=flat)
-![SVA](https://img.shields.io/badge/SVA-Assertion_Based_Verification-blue?style=flat)
-![Functional Coverage](https://img.shields.io/badge/Functional_Coverage-Closure-green?style=flat)
-![Constrained Random](https://img.shields.io/badge/Constrained_Random-Stimulus-orange?style=flat)
+![UVM](https://img.shields.io/badge/UVM-Testbench_Architecture-blueviolet?style=for-the-badge)
+![SVA](https://img.shields.io/badge/SVA-Assertion_Based_Verification-blue?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-orange?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-red?style=for-the-badge)
+![Functional Coverage](https://img.shields.io/badge/Functional_Coverage-Closure-green?style=for-the-badge)
+![Constrained Random](https://img.shields.io/badge/Constrained_Random-Stimulus-orange?style=for-the-badge)
 
-**Tools & EDA**
+**Dev Tools**
 
-![QuestaSim](https://img.shields.io/badge/QuestaSim-Simulation-informational?style=flat&color=9B59B6)
-![Vivado](https://img.shields.io/badge/Vivado-FPGA-informational?style=flat&color=E74C3C)
-![Questa-lint](https://img.shields.io/badge/Questa--lint-Linting-informational?style=flat&color=2ECC71)
-![Xschem](https://img.shields.io/badge/Xschem-Schematic-informational?style=flat&color=F39C12)
-![NgSpice](https://img.shields.io/badge/NgSpice-Simulation-informational?style=flat&color=1ABC9C)
-![GDB](https://img.shields.io/badge/GDB-Debugging-informational?style=flat&color=C0392B)
-![Git](https://img.shields.io/badge/Git-Version_Control-informational?style=flat&logo=git&logoColor=white&color=F05032)
+<img src="https://skillicons.dev/icons?i=linux,vscode,matlab,github&theme=dark" />
+
+![QuestaSim](https://img.shields.io/badge/QuestaSim-9B59B6?style=for-the-badge)
+![Vivado](https://img.shields.io/badge/Vivado-E74C3C?style=for-the-badge)
+![GDB](https://img.shields.io/badge/GDB-Debugging-C0392B?style=for-the-badge)
+![Xschem](https://img.shields.io/badge/Xschem-F39C12?style=for-the-badge)
+![NgSpice](https://img.shields.io/badge/NgSpice-1ABC9C?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -97,7 +107,7 @@ I'm a **Senior 1 ECE student at Ain Shams University** (GPA: 3.77 / 4.00) with a
 
 <img src="https://streak-stats.demolab.com?user=basselmahmoud1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basselmahmoud1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basselmahmoud1&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
 </div>
 
