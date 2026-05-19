@@ -12,7 +12,7 @@
 
 I'm a **Senior 1 ECE student at Ain Shams University** with a strong passion for **RTL Design** and **Digital Verification**. I enjoy building reliable hardware systems — from low-level chip-level design to Linux-based embedded applications.
 
-- 🔭 Currently implementing the **AMBA APB Protocol** in SystemVerilog
+- 🔭 Currently implementing the **SPI Master UVM Verification** in SystemVerilog
 - 🌱 Deepening expertise in **UVM**, **SVA**, and coverage-driven verification
 - 🏫 Teaching **SystemVerilog & Verification** as an IEEE Workshop Instructor
 - 📺 Running an educational **YouTube channel** on electronics & embedded systems
